@@ -1,0 +1,15 @@
+hu\unideb\inf\meinauto\xml2_meinauto\model\Hubraum.class
+hu\unideb\inf\meinauto\xml2_meinauto\main\AutoResource.class
+hu\unideb\inf\meinauto\xml2_meinauto\parser\AutoSuche.class
+hu\unideb\inf\meinauto\xml2_meinauto\model\Gepackraumvol.class
+hu\unideb\inf\meinauto\xml2_meinauto\model\Verbrauch.class
+hu\unideb\inf\meinauto\xml2_meinauto\main\IMRouter.class
+hu\unideb\inf\meinauto\xml2_meinauto\model\SearchResultItem.class
+hu\unideb\inf\meinauto\xml2_meinauto\search\SimpleSearch.class
+hu\unideb\inf\jaxb\JAXBUtil.class
+hu\unideb\inf\meinauto\xml2_meinauto\main\AutoApp.class
+hu\unideb\inf\meinauto\xml2_meinauto\model\Auto.class
+hu\unideb\inf\meinauto\xml2_meinauto\model\SearchResults.class
+hu\unideb\inf\meinauto\xml2_meinauto\parser\AutoParser.class
+hu\unideb\inf\meinauto\xml2_meinauto\model\Dimensions.class
+hu\unideb\inf\meinauto\xml2_meinauto\model\ObjectFactory.class
